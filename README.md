@@ -1,4 +1,4 @@
-# Advanced-Lane-Lines-master_minsu
+# Advanced-Lane-Lines-master_udasity
 #### The code for project is in advance_lane_dectection.ipynb. The other notebook is for parameter fine-tune.
 
 ## Camera Calibration
